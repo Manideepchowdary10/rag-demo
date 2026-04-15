@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+google-generativeai
+pyPDF2
+
+langchain # core framework
+langchain-community #extra integration
+faiss-cpu
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+langchain-core
